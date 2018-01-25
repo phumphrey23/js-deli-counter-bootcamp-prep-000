@@ -12,7 +12,7 @@ function nowServing(katzDeliLine){
   }
 }
 }
-function currentLine(katzDeli){
+function currentLine(katzDeliLine){
   var line = [];
   for(var i=0; i<KatzDeliLine.length; i++){
     if(katzDeliLine.length === 0){
