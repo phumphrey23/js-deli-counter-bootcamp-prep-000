@@ -21,6 +21,6 @@ function currentLine(KatzDeli, name){
     katzDeliLine.push(name)
     return 'The line is currently:'+ katzDeliLine
   }
-    
+
   })
 }
